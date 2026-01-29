@@ -1,0 +1,14 @@
+PackageIdentifier: archisman-panigrahi.QuickBib
+PackageVersion: 0.5.3
+InstallerType: nullsoft
+InstallModes:
+	- silent
+Installers:
+	- Architecture: x64
+		InstallerUrl: https://github.com/archisman-panigrahi/QuickBib/releases/download/v0.5.3/QuickBib-Installer-0.5.3.exe
+		InstallerSha256: b25795adbdb18bf5c62b5e475ca35c9500f144423329954ecbdaba12b79daae7
+		InstallerSwitches:
+			Silent: /S /CURRENTUSER
+Scope: user
+ManifestType: Installer
+ManifestVersion: 1.6.0

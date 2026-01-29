@@ -1,0 +1,11 @@
+PackageIdentifier: archisman-panigrahi.QuickBib
+PackageVersion: 0.5.3
+Locale: en-US
+PackageName: QuickBib
+Publisher: Archisman Panigrahi
+ShortDescription: QuickBib retrieves BibTeX entries from DOIs, arXiv IDs, article URLs, or titles.
+Tags:
+	- reference
+	- bibliography
+	- research
+	- academic

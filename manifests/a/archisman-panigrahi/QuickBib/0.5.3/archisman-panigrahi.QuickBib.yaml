@@ -1,0 +1,12 @@
+PackageIdentifier: archisman-panigrahi.QuickBib
+PackageVersion: 0.5.3
+DefaultLocale: en-US
+ManifestType: installer
+PackageName: QuickBib
+Publisher: Archisman Panigrahi
+License: GPL-3.0-or-later
+LicenseUrl: https://www.gnu.org/licenses/gpl-3.0-standalone.html
+Homepage: https://archisman-panigrahi.github.io/QuickBib/
+Files:
+	- archisman-panigrahi.QuickBib.installer.yaml
+	- archisman-panigrahi.QuickBib.locale.en-us.yaml
